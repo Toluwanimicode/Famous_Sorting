@@ -1,0 +1,6 @@
+
+Step 1: Create a variable to hold the array.
+Step 2: Go through the array items.
+Step 3: Pick the smallest item in the array and compare it withe item on index 0.
+Step 4: If the item on index 0 is greater than the smaller item place the smaller item on index 0.
+Step 5 : Repeat the process until all items are sorted.
